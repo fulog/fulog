@@ -18,7 +18,11 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,py,azure,sqlite" />
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulog
+)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
