@@ -1,15 +1,13 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=https://github.com/fulog" />
-  ![aaaa](https://komarev.com/ghpvc/?username=fulog)
 </div>
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
+- 🔗 My Blog：[BLOG](https://www.fulogabc.net/)
 - 📫 How to reach me: [Twitter - @fulogabc](https://twitter.com/fulogabc)
 <br>
 
@@ -21,9 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,py,azure,sqlite" />
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fulog
-)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
