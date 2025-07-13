@@ -6,10 +6,7 @@
 - 📫 How to reach me: [Twitter - @fulogabc](https://twitter.com/fulogabc)
 <br>
 
-<h4 align="center">📈 Profile Views</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/fulog/count.svg" alt="Profile Views" />
-</p>
+
 
 
 <!-- 3. 好きな技術スタックに変更 -->
