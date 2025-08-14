@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Twitter - @fulogabc](https://twitter.com/fulogabc)
 <br>
 <!-- Profile views (komarev) -->
-![Profile views](https://komarev.com/ghpvc/?username=fulog&style=flat-square)
+![](https://komarev.com/ghpvc/?username=fulog&style=flat-square)
 <br>
 
 
