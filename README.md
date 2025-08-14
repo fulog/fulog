@@ -6,12 +6,10 @@
 - 📫 How to reach me: [Twitter - @fulogabc](https://twitter.com/fulogabc)
 <br>
 <!-- Profile views (komarev) -->
-![Profile Views](https://komarev.com/ghpvc/?username=fulog&style=flat-square)
-<br>
 <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=fulog" alt="fulog" />
   </a>
-  <br>
+<br>
 
 
 <!-- 3. 好きな技術スタックに変更 -->
