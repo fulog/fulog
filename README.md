@@ -1,4 +1,4 @@
-# Hi, I'm fulog 👋
+# Hi, I'm fu-👋
 
 Power Platform（Power Apps / Power Automate）まわりを中心に、  
 **「現場で使える業務アプリ」** をコツコツ作っている人です。
